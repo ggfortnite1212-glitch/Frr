@@ -1,0 +1,28 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# News Channels
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://logo.url/cnn.png" group-title="News",CNN
+http://stream.url/cnn
+
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC News" tvg-logo="https://logo.url/bbc.png" group-title="News",BBC News
+http://stream.url/bbc
+
+# Documentary Channels
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="National Geographic" tvg-logo="https://logo.url/natgeo.png" group-title="Documentary",National Geographic
+http://stream.url/natgeo
+
+# Kids Channels
+#EXTINF:-1 tvg-id="DISNEY" tvg-name="Disney Channel" tvg-logo="https://logo.url/disney.png" group-title="Kids",Disney Channel
+http://stream.url/disney
+
+#EXTINF:-1 tvg-id="NICK" tvg-name="Nickelodeon" tvg-logo="https://logo.url/nick.png" group-title="Kids",Nickelodeon
+http://stream.url/nick
+
+# Sports Channels
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://logo.url/espn.png" group-title="Sports",ESPN
+http://stream.url/espn
+
+# Education Channels
+#EXTINF:-1 tvg-id="EDUCATION" tvg-name="Educational Channel" tvg-logo="https://logo.url/education.png" group-title="Education",Educational Channel
+http://stream.url/education
